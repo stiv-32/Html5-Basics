@@ -1,0 +1,25 @@
+*{
+    font-style: italic;
+    background-color: rgb(222, 74, 74);
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.box{
+    width:150px ;
+    padding: 35px;
+}
+
+h2{
+    text-align: center;  
+}
+
+.box1{
+    width: 190px ;
+    padding: 35px;
+}
